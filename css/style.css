@@ -1,0 +1,18 @@
+.nomber1 > p {
+   color: grey;
+}
+.nomber2 {
+   color: black;
+}
+.one > span {
+   color: grey;
+}
+.two > span {
+   color: grey;
+}
+.three > a {
+   color: grey;
+}
+.toto > li > a{
+   color:black ;
+}
